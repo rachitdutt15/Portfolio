@@ -1,16 +1,90 @@
-# React + Vite
+🚀 Portfolio Website – Rachit Dutt
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive Portfolio Website built using React, Vite, and Tailwind CSS.
+This portfolio showcases my skills, experience, projects, and personal brand in a clean UI.
 
-Currently, two official plugins are available:
+📌 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+⚡ Fast (Powered by Vite)
 
-## React Compiler
+🎨 Modern UI with Tailwind CSS
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+📱 Fully responsive for all devices
 
-## Expanding the ESLint configuration
+🧩 Component-based architecture
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+⌨️ Typewriter text animation
+
+🖼️ Smooth Hero, About, Projects & Experience sections
+
+🌙 Clean, minimal design
+
+🛠️ Tech Stack
+
+React
+
+Vite
+
+Tailwind CSS
+
+JavaScript (ES6+)
+
+React Icons / Remix Icons
+
+📂 Folder Structure
+src/
+│
+├── Components/
+│   ├── Navbar/
+│   ├── Home/
+│   ├── About/
+│   ├── Experience/
+│   ├── Projects/
+│   ├── Typewrite/
+│   └── Footer/
+│
+├── assets/
+├── App.jsx
+├── main.jsx
+└── index.css
+
+🔧 Installation & Setup
+
+Clone the repository:
+
+git clone https://github.com/rachitdutt15/Portfolio.git
+cd Portfolio
+
+
+Install dependencies:
+
+npm install
+
+
+Run development server:
+
+npm run dev
+
+
+Build for production:
+
+npm run build
+
+
+Preview production build:
+
+npm run preview
+
+🔗 Live Demo
+
+
+📬 Contact
+
+Rachit Dutt
+📧 2k23csaiml2310504@gmail.com
+
+🔗 GitHub: github.com/rachitdutt15
+
+⭐ Support
+
+If you like this project, consider giving it a star ⭐ on GitHub — it helps a lot!
